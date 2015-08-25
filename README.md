@@ -45,13 +45,23 @@ After completion of course students will be able to:
 
 Lectures will be interspersed with short exercises and in-class group work.  Students are expected to have read the relevant sections of the textbook (listed in the schedule below and on Courseweb) before class.  Daily short quizzes will test whether you have done the reading before the relevant material is covered in lecture.  There will be weekly homework assignments leading up to a final project as the culmination of your semester's learning.
 
+#### Participation:
+
+In this course you will be responsible for both your own and your colleagues's learning.  Participation will thus be assessed based on your contributions to your colleagues' learning through active participation in classroom discussion, code reviews, and discussion boards.
+
+#### Lecture Quizzes:
+
+There will be quizzes to encourage you to read and confront the material before class.  These quizzes will be generally given at the beginning of class.  The intent is to encourage you to be prepared for class and to wrestle with the material in preparation for further class discussion and learning.
+
 ### Assignments
 
-The assignment for each week will be available before the week’s class meetings. You should clone (download) the assignment and read it before the associated class meetings.  There will be time for you to start the assignment in class. You may discuss the assignment with other students, but the work you turn in must be your own and you must understand everything you submit.
+Each week you will complete a homework assignment that uses the material for the current week and builds on previous material.
 
-### GitHub
+The assignment for each week will be available before the week’s class meetings. You should clone (download) the assignment and read it before the associated class meetings.  There will be time for you to start the assignment in class. You are encouraged to discuss the assignment with other students, but the work you turn in must be your own and you must understand everything you submit.
 
-We will be using GitHub as our collaborative platform for the distribution, discussion, and submission of content in this course.  GitHub is a collaborative platform for developing and sharing code using modern tools and version control.  In particular, it uses the distributed version control system ```git```.  While GitHub will probably look complete different in 10 years, the ideas of sharable knowledge, collaboration, and version control are important ideas that will stay with you throughout your career.  There is an introduction to ```git``` in the course textbook, through http://www.github.com, and many additional online tutorials.
+#### Final Project:
+
+The final part of this course will be the final projects, which will be presented over the last 4 class days.  The grade will be based on a combination of the written material, including code quality, and the presentation quality.  There will be no final exam.
 
 ### Grading
 Grades will be weighted as:
@@ -60,19 +70,12 @@ Percentage | Component
 ---------- | ---------
        50% | Assignments
        25% | Final project
-       15% | Lecture Quizzes
-       10% | Participation 
+       15% | Participation 
+       10% | Lecture Quizzes
 
-#### Assignments:
+### GitHub
 
-#### Final Project:
-The final part of this course will be the final projects, which will be presented over the last 4 class days.  The grade will be based on a combination of the written material, including code quality, and the presentation quality.  There will be no final exam.
-
-#### Lecture Quizzes:
-
-#### Participation:
-
-In this course you will be responsible for both your own and your colleagues's learning.  Participation will thus be assessed based on your contributions to your colleagues' learning through active participation in classroom discussion, code reviews, and discussion boards.
+We will be using GitHub as our collaborative platform for the distribution, discussion, and submission of content in this course.  GitHub is a collaborative platform for developing and sharing code using modern tools and version control.  In particular, it uses the distributed version control system ```git```.  While GitHub will probably look complete different in 10 years, the ideas of sharable knowledge, collaboration, and version control are important ideas that will stay with you throughout your career.  There is an introduction to ```git``` in the course textbook, through http://www.github.com, and many additional online tutorials.
 
 #### Calendar
 
