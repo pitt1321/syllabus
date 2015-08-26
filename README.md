@@ -1,5 +1,5 @@
 ## Computational Methods in Physics
-## Physics 1321 *(Fall 2015)*
+## Physics 1321, University of Pittsburgh *(Fall 2015)*
 ## Syllabus
 
 ### Course Information
@@ -23,6 +23,8 @@ Available through Pitt subscription to SafariBooks Online.
    * http://www.library.pitt.edu/safari-tech-books-online
 2. And then search for “Effective Computation in Physics” or go directly to:
    * http://proquest.safaribooksonline.com/book/physics/9781491901564
+
+This textbook is designed as a useful guide to how to use Python, good software pratice, and tools like ```git``` as for effective scientific research.  However, it **does not** present a treatment of numerical details of integration, curve fitting, etc.  We will be relying on additional resources for such material.
 
 ### Course Description 
 
@@ -83,19 +85,19 @@ Week of | Planned material
 ------- | ----------------
 08/31 | Introduction to Python
       | Introduction to Python (basic syntax, math, loops, functions)
-09/07 | Introduction to numpy (types, arrays), plotting
+09/07 | Introduction to ```numpy``` (types, arrays), plotting
       | random numbers, Monte Carlo simulation, random walk
       |  *No class Sep 7 (Labor Day).*  *Add/drop period ends Sep 11*
-09/14 |
-      |
-09/21 | numerical integration: trapezoidal, Simpson's rule, Monte Carlo
-09/28 | finite difference, numerical differentiation (first and second derivatives) solving equations, root finding (bisection, Newton-Raphson)
-10/05 | introduction to Numpy/SciPy, matrix methods, files
-10/12 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
+09/14 | numerical integration: trapezoidal, Simpson's rule, Monte Carlo
+09/21 | finite difference, numerical differentiation (first and second derivatives), solving equations, root finding (bisection, Newton-Raphson)
+09/28 | introduction to ```numpy/scipy```, matrix methods, files
+10/05 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
+10/12 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
       | Class will be held Tue, Wed, Fri this week due to Fall Break.
-10/19 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
-10/26 | Fourier transforms
-11/02 | discrete and continuous nonlinear problems
+10/19 | Fitting models to data
+      | Linear, polyfit, curve fitting
+10/26 | discrete and continuous nonlinear problems
+11/02 | Fourier transforms
 11/09 | thermodynamic simulations, Metropolis algorithm
 11/16 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
 11/23 | PDEs continued (waves)
@@ -116,4 +118,4 @@ Students in this course will be expected to comply with the University of Pittsb
 ### Acknowledgments
 
 Attribution and credit is the core currency of respect and recognition in science.  
-The structure, lectures, assignments and other material in this course are largely based on material prepared by Prof. Brian d'Urso, who in turn worked from notes from Prof. James Mueller.  Additional materials presented in the course are as by attribution; please call me out on non-attributed slides, figures, and plots. 
+The structure, lectures, assignments and other material in this course are largely based on material prepared by Prof. Brian d'Urso and Prof. James Mueller.  Additional materials presented in the course are as by attribution; please call me out on non-attributed slides, figures, and plots. 
