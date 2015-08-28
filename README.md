@@ -118,4 +118,4 @@ Students in this course will be expected to comply with the University of Pittsb
 ### Acknowledgments
 
 Attribution and credit is the core currency of respect and recognition in science.  
-The structure, lectures, assignments and other material in this course are largely based on material prepared by Prof. Brian d'Urso and Prof. James Mueller.  Additional materials presented in the course are as by attribution; please call me out on non-attributed slides, figures, and plots. 
+The structure, lectures, assignments and other material in this course are largely based on material prepared by Prof. Brian D'Urso and Prof. James Mueller.  Additional materials presented in the course are as by attribution; please call me out on non-attributed slides, figures, and plots. 
