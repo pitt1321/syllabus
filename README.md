@@ -26,6 +26,14 @@ Available through Pitt subscription to SafariBooks Online.
 
 This textbook is designed as a useful guide to how to use Python, good software pratice, and tools like ```git``` as for effective scientific research.  However, it **does not** present a treatment of numerical details of integration, curve fitting, etc.  We will be relying on additional resources for such material.
 
+### Reading and Lecture Notes
+
+Reading assignments are posted in the `lectures` `README.md`:  
+https://github.com/pitt1321/lectures/
+
+Lectures are posted under `week_[01][0-9]` subdirectories.  E.g.,  
+https://github.com/pitt1321/lectures/week_01
+
 ### Course Description 
 
 Introductory physics courses are full of simplifications: projectiles fly without air resistance, pendulums swing only at small angles, no more than two particles move at any time, etc. These kinds of simplifications are necessary and appropriate when you’re first trying to understand the basic laws of nature, but the real world is far more complex, and far more interesting. Fortunately, modern electronic computers make it possible to perform extremely lengthy calculations in a negligible amount of time. In this course we will present several computational techniques and apply them to different problems in physics and astronomy.
@@ -78,6 +86,9 @@ Percentage | Component
 ### GitHub
 
 We will be using GitHub as our collaborative platform for the distribution, discussion, and submission of content in this course.  GitHub is a collaborative platform for developing and sharing code using modern tools and version control.  In particular, it uses the distributed version control system ```git```.  While GitHub will probably look complete different in 10 years, the ideas of sharable knowledge, collaboration, and version control are important ideas that will stay with you throughout your career.  There is an introduction to ```git``` in the course textbook, through http://www.github.com, and many additional online tutorials.
+
+Assignments will be implemented following the procedure at  
+https://education.github.com/guide/forks
 
 #### Calendar
 
