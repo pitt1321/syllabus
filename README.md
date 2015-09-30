@@ -97,22 +97,21 @@ Week of | Planned material
 08/31 | Introduction to Python
       | Introduction to Python (basic syntax, math, loops, functions)
 09/07 | Introduction to ```numpy``` (types, arrays), plotting
-      | random numbers, Monte Carlo simulation, random walk
       |  *No class Sep 7 (Labor Day).*  *Add/drop period ends Sep 11*
-09/14 | numerical integration: trapezoidal, Simpson's rule, Monte Carlo
-09/21 | finite difference, numerical differentiation (first and second derivatives), solving equations, root finding (bisection, Newton-Raphson)
-09/28 | introduction to ```numpy/scipy```, matrix methods, files
-10/05 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
-10/12 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
-10/19 | Fitting models to data:  Linear, polyfit, curve fitting
+09/14 | random numbers, Monte Carlo simulation, random walk
+09/21 | numerical integration: trapezoidal, Simpson's rule, Monte Carlo
+09/28 | finite difference, numerical differentiation (first and second derivatives), solving equations, root finding (bisection, Newton-Raphson)
+10/05 | introduction to ```numpy/scipy```, matrix methods, files
+10/12 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
+10/19 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
       | Class will be held Tue, Wed, Fri this week due to Fall Break.
-10/26 | discrete and continuous nonlinear problems
-11/02 | Fourier transforms
-11/09 | thermodynamic simulations, Metropolis algorithm
-11/16 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
-11/23 | PDEs continued (waves)
+10/26 | Fitting models to data:  Linear, polyfit, curve fitting
+11/02 | discrete and continuous nonlinear problems
+11/09 | Fourier transforms
+11/16 | thermodynamic simulations, Metropolis algorithm
+11/23 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
+11/30 | PDEs continued (waves)
       | *No class Nov 25, 27 (Thanksgiving)*
-11/30 | Final Project presentations
 12/07 | Final Project presentations
 12/14 | ---  *No final exam* ---
 
