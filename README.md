@@ -104,9 +104,8 @@ Week of | Planned material
 09/28 | introduction to ```numpy/scipy```, matrix methods, files
 10/05 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
 10/12 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
+10/19 | Fitting models to data:  Linear, polyfit, curve fitting
       | Class will be held Tue, Wed, Fri this week due to Fall Break.
-10/19 | Fitting models to data
-      | Linear, polyfit, curve fitting
 10/26 | discrete and continuous nonlinear problems
 11/02 | Fourier transforms
 11/09 | thermodynamic simulations, Metropolis algorithm
