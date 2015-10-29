@@ -110,8 +110,8 @@ Week of | Planned material
 11/09 | Fourier transforms
 11/16 | thermodynamic simulations, Metropolis algorithm
 11/23 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
-11/30 | PDEs continued (waves)
       | *No class Nov 25, 27 (Thanksgiving)*
+11/30 | PDEs continued (waves)
 12/07 | Final Project presentations
 12/14 | ---  *No final exam* ---
 
