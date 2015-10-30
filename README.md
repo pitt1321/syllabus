@@ -105,13 +105,13 @@ Week of | Planned material
 10/12 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
 10/19 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
       | Class will be held Tue, Wed, Fri this week due to Fall Break.
-10/26 | Fitting models to data:  Linear, polyfit, curve fitting
-11/02 | discrete and continuous nonlinear problems
-11/09 | Fourier transforms
-11/16 | thermodynamic simulations, Metropolis algorithm
-11/23 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
+10/26 | Fourier transforms
+11/02 | Chaos.  Discrete and continuous nonlinear problems.
+11/09 | thermodynamic simulations, Metropolis algorithm
+11/16 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
+11/23 | PDEs (cont.)
       | *No class Nov 25, 27 (Thanksgiving)*
-11/30 | PDEs continued (waves)
+11/30 | PDEs continued (waves).  Final Project presentations start 12/4.
 12/07 | Final Project presentations
 12/14 | ---  *No final exam* ---
 
