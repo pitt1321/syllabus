@@ -19,16 +19,16 @@ Meeting Time: Mon, Wed, Fri: 10:00-10:50 AM; Thaw Hall, Room 210
 This is our main textbook that will present the basics of Python and the numerical techniques that we will learn in this course.
 
 2. You may also find useful:
-"Effective Computation in Physics"   by Anthony Scopatz and Kathryn D. Huff 
+  "Effective Computation in Physics"   by Anthony Scopatz and Kathryn D. Huff 
 which is available through Pitt subscription to SafariBooks Online.
 
-To use the SafariBooks Online:
-1. Start and log in at
-   * http://www.library.pitt.edu/safari-tech-books-online
-2. And then search for “Effective Computation in Physics” or go directly to:
-   * http://proquest.safaribooksonline.com/book/physics/9781491901564
+  This textbook is designed as a useful guide to how to use Python, good software pratice, and tools like ```git``` as for effective scientific research.  However, it **does not** present a treatment of numerical details of integration, curve fitting, etc.  The main textbook is the reference for those details.
 
-This textbook is designed as a useful guide to how to use Python, good software pratice, and tools like ```git``` as for effective scientific research.  However, it **does not** present a treatment of numerical details of integration, curve fitting, etc.  The main textbook is the reference for those details.
+  To use the SafariBooks Online:  
+    1. Start and log in at
+       * http://www.library.pitt.edu/safari-tech-books-online
+    2. And then search for “Effective Computation in Physics” or go directly to:
+       * http://proquest.safaribooksonline.com/book/physics/9781491901564
 
 3. It's 2016.  There is a wealth of information available online about each of the topics we will cover.  I encourage you to pursue additional materials, particularly on issues that you are having trouble understanding initially.
 
@@ -112,6 +112,7 @@ Week of | Planned material
 09/26 | finite difference, numerical differentiation (first and second derivatives), solving equations, root finding (bisection, Newton-Raphson)
 10/03 | introduction to ```numpy/scipy```, matrix methods, files
 10/10 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
+      | *Class this week is: Tue, Wed, Fri: Oct 11, 12, 14.*
 10/17 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
       | Class will be held Tue, Wed, Fri this week due to Fall Break.
 10/24 | Fourier transforms
@@ -119,7 +120,7 @@ Week of | Planned material
 11/07 | thermodynamic simulations, Metropolis algorithm
 11/14 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
 11/21 | PDEs (cont.)
-      | *No class Nov 25, 27 (Thanksgiving)*
+      | *No class Nov 23, 25 (Thanksgiving)*
 11/28 | PDEs continued (waves).  Final Project presentations start 12/4.
 12/05 | Final Project presentations
 12/12 | ---  *No final exam* ---
