@@ -13,7 +13,7 @@ Meeting Time: Mon, Wed, Fri: 10:00-10:50 AM; Thaw Hall, Room 210
 * Office: 308 Allen Hall
 * Office Hours: Wednesday 11:00-12:00, by appointment, and by GitHub Issue
 
-### Textbook
+### Textbook and References
 
 1. "Computational Physics"  by Mark Newman, 2013 (Revised and Expanded edition)
 This is our main textbook that will present the basics of Python and the numerical techniques that we will learn in this course.
@@ -30,7 +30,12 @@ which is available through Pitt subscription to SafariBooks Online.
     2. And then search for “Effective Computation in Physics” or go directly to:
        * http://proquest.safaribooksonline.com/book/physics/9781491901564
 
-3. It's 2016.  There is a wealth of information available online about each of the topics we will cover.  I encourage you to pursue additional materials, particularly on issues that you are having trouble understanding initially.
+3. "A Whirlwind Tour of Python"  by Jake VanderPlas
+        * http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
+
+4. Read through https://guides.github.com as the topics become appropriate.
+
+5. We are fortunate to live in a rich, interconnected time in human history.  There is a wealth of information available online about each of the topics we will cover.  I encourage you to pursue additional materials, particularly on issues that you are having trouble understanding initially.
 
 ### Reading and Lecture Notes
 
