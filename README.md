@@ -11,7 +11,7 @@ Meeting Time: Mon, Wed, Fri: 10:00-10:50 AM; Thaw Hall, Room 210
 * Lecturer: Prof. Michael Wood-Vasey    
 * Email: wmwv@pitt.edu
 * Office: 308 Allen Hall
-* Office Hours: Wednesday 11:00-12:00, by appointment, and by GitHub Issue
+* Office Hours: Wednesday 11:00-12:00 or by appointment in Allen 308, and by GitHub Issue
 
 ### Textbook and References
 
