@@ -79,7 +79,7 @@ There will be quizzes to encourage you to read and confront the material before 
 
 Each week you will complete a homework assignment that uses the material for the current week and builds on previous material.
 
-The assignment for each week will be available before the week’s class meetings. You should `fork` and `git clone` (download) the assignment and read it before the associated class meetings.  There will be time for you to start the assignment in class. You are encouraged to discuss the assignment with other students, but the work you turn in must be your own and you must understand everything you submit.  You will submit your assignment by issuing a "pull request" agains the original assignment repository.
+The assignment for each week will be available before the week’s class meetings. You should `fork` and `git clone` (download) the assignment and read it before the associated class meetings.  There will be time for you to start the assignment in class. You are encouraged to discuss the assignment with other students, but the work you turn in must be your own and you must understand everything you submit.  You will submit your assignment by `git push` back to your GitHub repository regularly, and then issuing a "pull request" against the original assignment repository when you're done (you can even submit a pull request early on in the week -- your pushed commits will continue to be added to the pull request).
 
 You will receive feedback on your assignment from both me and your peers.
 
