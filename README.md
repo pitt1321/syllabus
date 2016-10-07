@@ -117,16 +117,16 @@ Week of | Planned material
 09/26 | finite difference, numerical differentiation (first and second derivatives), solving equations, root finding (bisection, Newton-Raphson)
 10/03 | introduction to ```numpy/scipy```, matrix methods, files
 10/10 | solving ordinary differential equations (ODEs) (Euler’s rule, Runge-Kutta)
-      | *Class this week is: Tue, Wed, Fri: Oct 11, 12, 14.*
 10/17 | solving systems of ODEs, two-dimensional motion (projectiles, orbits)
-      | Class will be held Tue, Wed, Fri this week due to Fall Break.
-10/24 | Fourier transforms
-10/31 | Chaos.  Discrete and continuous nonlinear problems.
-11/07 | thermodynamic simulations, Metropolis algorithm
-11/14 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
+      | *Class this week is: Tue, Wed, Fri: Oct 18, 19, 20.*
+
+10/24 | Solving partial differential equations (PDEs) (electrostatics, heat flow)
 11/21 | PDEs (cont.)
+10/31 | Fourier transforms
+11/07 | Chaos.  Discrete and continuous nonlinear problems.
+11/14 | Topics of interest based on select Final Projects
       | *No class Nov 23, 25 (Thanksgiving)*
-11/28 | PDEs continued (waves).  Final Project presentations start 12/4.
+11/28 | Final Project presentations start 12/2.
 12/05 | Final Project presentations
 12/12 | ---  *No final exam* ---
 
