@@ -58,14 +58,14 @@ After completion of course students will be able to:
 3. Perform numerical integration using various algorithms.
 4. Formulate numerical algorithms for the solution of single and multiple variable ordinary linear and non-linear differential equations in physics, such as simple harmonic motion, large angular motion of a pendulum, Van de Pol oscillator etc.
 5. Use modern computer languages, version control, and collaborative tools to solve problems in physics. 
-5. Write computer programs to implement the formulated numerical algorithms and output the calculated values of selected physical quantities to suitable data files
+5. Write computer programs to implement the formulated numerical algorithms and output the calculated values of selected physical quantities to suitable data files.
 7. Propose analytic and computational solutions to a physical problem.
 8. Explain a problem and its solution to peers through written and oral communication.
 9. Read, assess, and critique a solution to a computational problem.
 
 ### Course Structure
 
-Lectures will be interspersed with short exercises and in-class group work.  Students are expected to have read the relevant sections of the textbook (listed in the schedule below and on Courseweb) before class.  Daily short quizzes will test whether you have done the reading before the relevant material is covered in lecture.  There will be weekly homework assignments leading up to a final project as the culmination of your semester's learning.
+Lectures will be interspersed with short exercises and in-class group work.  Students are expected to have read the relevant sections of the textbook (listed in the schedule below and on Courseweb) before class.  Weekly short quizzes will test whether you have done the reading before the relevant material is covered in lecture.  There will be weekly homework assignments leading up to a final project as the culmination of your semester's learning.
 
 #### Participation:
 
