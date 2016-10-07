@@ -126,7 +126,7 @@ Week of | Planned material
 11/07 | Chaos.  Discrete and continuous nonlinear problems.
 11/14 | Topics of interest based on select Final Projects
       | *No class Nov 23, 25 (Thanksgiving)*
-11/28 | Final Project presentations start 12/2.
+11/28 | Topics of interest (cont.).  Final Project presentations start 12/2.
 12/05 | Final Project presentations
 12/12 | ---  *No final exam* ---
 
